@@ -132,7 +132,7 @@ Each notebook follows a consistent sequence:
 ## 7. Output / report / screenshot locations
 
 ```text
-CyberNova/
+CyberSNova-Data-Analysis-Internship/
 ├── Dataset/
 ├── projects/
 │   ├── <id>_<name>/
