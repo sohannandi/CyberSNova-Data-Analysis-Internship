@@ -142,7 +142,6 @@ CyberSNova-Data-Analysis-Internship/
 │       └── outputs/
 ├── src/
 ├── tests/
-├── screenshots/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
